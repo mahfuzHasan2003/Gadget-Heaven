@@ -1,0 +1,27 @@
+[
+   {
+      "id": 1,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, debit cards, and PayPal. You can also choose to pay via bank transfer for larger orders."
+   },
+   {
+      "id": 2,
+      "question": "How long does it take to process an order?",
+      "answer": "Orders are typically processed within 1-2 business days. Once processed, you’ll receive a confirmation email with your tracking information."
+   },
+   {
+      "id": 3,
+      "question": "What is your return policy?",
+      "answer": "We accept returns within 30 days of purchase as long as the product is in its original condition. Please visit our Return Policy page for more details on how to initiate a return."
+   },
+   {
+      "id": 4,
+      "question": "Do you offer warranties on your products?",
+      "answer": "Yes, all gadgets come with a one-year warranty. Extended warranties are also available for select products at an additional cost."
+   },
+   {
+      "id": 5,
+      "question": "Can I track my order?",
+      "answer": "Yes, once your order is shipped, we will provide you with a tracking number. You can use this number to track your package on the carrier’s website."
+   }
+]

@@ -1,0 +1,340 @@
+[
+   {
+      "id": 1,
+      "name": "Dell Inspiron 15",
+      "category": "Laptop",
+      "image": "https://singerbd.com/media/catalog/product/cache/6b21189aea823b819ee85209ed2b1216/3/5/3520_core_i7.jpg",
+      "price": 750.0,
+      "stock": true,
+      "description": "A reliable laptop with solid performance for daily tasks.",
+      "specifications": {
+         "processor": "Intel Core i5",
+         "ram": "8GB",
+         "memory": "256GB SSD",
+         "display": "15.6-inch Full HD",
+         "battery": "6 hours"
+      },
+      "rating": 4.2
+   },
+   {
+      "id": 2,
+      "name": "iPhone 13",
+      "category": "iPhone",
+      "image": "https://files.refurbed.com/ii/iphone-13-1631687203.jpg",
+      "price": 999.99,
+      "stock": false,
+      "description": "The latest iPhone with advanced dual-camera system.",
+      "specifications": {
+         "processor": "A15 Bionic",
+         "storage": "128GB",
+         "display": "6.1-inch OLED",
+         "battery": "Up to 19 hours",
+         "camera": "12MP dual camera"
+      },
+      "rating": 4.7
+   },
+   {
+      "id": 3,
+      "name": "Samsung Galaxy S21",
+      "category": "Phones",
+      "image": "https://1000fix.com/wp-content/uploads/2022/07/Samsung-Galaxy-S21-FE-5G-image1-600x508.webp",
+      "price": 799.99,
+      "stock": true,
+      "description": "Flagship Samsung phone with high-quality display and camera.",
+      "specifications": {
+         "processor": "Exynos 2100",
+         "ram": "8GB",
+         "storage": "128GB",
+         "display": "6.2-inch Dynamic AMOLED",
+         "battery": "4000mAh"
+      },
+      "rating": 4.5
+   },
+   {
+      "id": 4,
+      "name": "Apple Watch Series 7",
+      "category": "Smart Watches",
+      "image": "https://i5.walmartimages.com/seo/Apple-Watch-Series-7-GPS-45mm-Midnight-Aluminum-Case-with-Midnight-Sport-Band-Regular_d2cca1d2-a49a-4d21-b640-c50e7dfaf46d.786d7fb757f3937dc064c06bb782855e.jpeg",
+      "price": 399.0,
+      "stock": true,
+      "description": "Apple's latest smartwatch with advanced health tracking.",
+      "specifications": {
+         "processor": "S7",
+         "storage": "32GB",
+         "display": "Always-On Retina",
+         "battery": "Up to 18 hours",
+         "features": ["Heart rate monitor", "Blood oxygen sensor", "ECG"]
+      },
+      "rating": 4.8
+   },
+   {
+      "id": 5,
+      "name": "MacBook Air M1",
+      "category": "MacBook",
+      "image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/Laptop/Air%20M1/macbookairm1-800x800.png",
+      "price": 999.99,
+      "stock": true,
+      "description": "Lightweight and powerful with the new Apple M1 chip.",
+      "specifications": {
+         "processor": "Apple M1",
+         "ram": "8GB",
+         "memory": "256GB SSD",
+         "display": "13.3-inch Retina",
+         "battery": "Up to 15 hours"
+      },
+      "rating": 4.9
+   },
+   {
+      "id": 6,
+      "name": "OnePlus Buds Pro",
+      "category": "Accessories",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/buds-pro/small/Small_Page1_white.jpg",
+      "price": 149.99,
+      "stock": true,
+      "description": "High-quality earbuds with active noise cancellation.",
+      "specifications": {
+         "battery": "Up to 28 hours",
+         "connectivity": "Bluetooth 5.2",
+         "features": ["ANC", "Wireless charging", "Water resistant"]
+      },
+      "rating": 4.3
+   },
+   {
+      "id": 7,
+      "name": "ASUS ROG Zephyrus G14",
+      "category": "Laptop",
+      "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Zephyrus-G14-4-3.jpg",
+      "price": 1350.0,
+      "stock": false,
+      "description": "A powerful gaming laptop with Ryzen processor and high refresh rate display.",
+      "specifications": {
+         "processor": "AMD Ryzen 9",
+         "ram": "16GB",
+         "memory": "1TB SSD",
+         "display": "14-inch QHD 120Hz",
+         "graphics": "NVIDIA RTX 3060"
+      },
+      "rating": 4.6
+   },
+   {
+      "id": 8,
+      "name": "iPhone SE (2022)",
+      "category": "iPhone",
+      "image": "https://i5.walmartimages.com/seo/Walmart-Family-Mobile-Apple-iPhone-SE-2022-3rd-Gen-5G-64GB-Midnight-Prepaid-Smartphone-Locked-to-Walmart-Family-Mobile_09ed12de-92c5-449f-8e7f-8125bf5d17d1.c055f1517bd70806914f222dbefb18ef.jpeg",
+      "price": 429.99,
+      "stock": true,
+      "description": "Affordable iPhone with powerful A15 chip and classic design.",
+      "specifications": {
+         "processor": "A15 Bionic",
+         "storage": "64GB",
+         "display": "4.7-inch Retina HD",
+         "camera": "12MP rear camera",
+         "battery": "Up to 15 hours"
+      },
+      "rating": 4.1
+   },
+   {
+      "id": 9,
+      "name": "Sony WH-1000XM4",
+      "category": "Accessories",
+      "image": "https://www.sony-asia.com/image/406fdd3cc9e49e28002ad8baef9185c8?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9",
+      "price": 299.99,
+      "stock": true,
+      "description": "Top-rated noise-canceling headphones with excellent sound quality.",
+      "specifications": {
+         "battery": "30 hours",
+         "connectivity": "Bluetooth 5.0",
+         "features": ["Noise cancellation", "Touch controls", "Quick charge"]
+      },
+      "rating": 4.7
+   },
+   {
+      "id": 10,
+      "name": "Samsung Galaxy Watch 4",
+      "category": "Smart Watches",
+      "image": "https://www.dakhm.com/wp-content/uploads/2022/02/Samsung-Galaxy-Watch-4-Smartwatch.jpg",
+      "price": 249.99,
+      "stock": false,
+      "description": "Samsung's latest smartwatch with advanced health and fitness tracking.",
+      "specifications": {
+         "processor": "Exynos W920",
+         "storage": "16GB",
+         "display": "Super AMOLED",
+         "battery": "Up to 40 hours",
+         "features": [
+            "ECG",
+            "Blood pressure monitor",
+            "Body composition analysis"
+         ]
+      },
+      "rating": 4.4
+   },
+   {
+      "id": 11,
+      "name": "Google Pixel 6",
+      "category": "Phones",
+      "image": "https://kryinternational.com/wp-content/uploads/2024/02/Google-Pixel-6-Price-in-bangladesh.jpg",
+      "price": 599.99,
+      "stock": true,
+      "description": "Google's latest smartphone with advanced AI features and camera.",
+      "specifications": {
+         "processor": "Google Tensor",
+         "ram": "8GB",
+         "storage": "128GB",
+         "display": "6.4-inch OLED",
+         "battery": "4614mAh"
+      },
+      "rating": 4.6
+   },
+   {
+      "id": 12,
+      "name": "HP Pavilion 14",
+      "category": "Laptop",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-Pavilion-14-dv2050nia-8219.jpg",
+      "price": 650.0,
+      "stock": true,
+      "description": "A compact and powerful laptop with Intel i5 and SSD storage.",
+      "specifications": {
+         "processor": "Intel Core i5",
+         "ram": "8GB",
+         "memory": "512GB SSD",
+         "display": "14-inch Full HD",
+         "battery": "Up to 10 hours"
+      },
+      "rating": 4.3
+   },
+   {
+      "id": 13,
+      "name": "iPhone 12 Pro Max",
+      "category": "iPhone",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Gold-5985.jpg",
+      "price": 1099.0,
+      "stock": false,
+      "description": "Premium iPhone with advanced triple-camera system and LiDAR scanner.",
+      "specifications": {
+         "processor": "A14 Bionic",
+         "storage": "256GB",
+         "display": "6.7-inch OLED",
+         "battery": "Up to 20 hours",
+         "camera": "12MP triple camera"
+      },
+      "rating": 4.8
+   },
+   {
+      "id": 14,
+      "name": "JBL Flip 5",
+      "category": "Accessories",
+      "image": "https://i.pcmag.com/imagery/reviews/07oTvX6adbR1Ylx4lLbMKJ5-1.fit_scale.size_760x427.v1573867106.jpg",
+      "price": 119.99,
+      "stock": true,
+      "description": "Portable Bluetooth speaker with waterproof design and powerful sound.",
+      "specifications": {
+         "battery": "12 hours",
+         "connectivity": "Bluetooth 5.1",
+         "features": ["Waterproof", "PartyBoost"]
+      },
+      "rating": 4.4
+   },
+   {
+      "id": 15,
+      "name": "Apple MacBook Pro 14 M1 Pro",
+      "category": "MacBook",
+      "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Macbook-Pro-M1-Chip-3.png",
+      "price": 1999.0,
+      "stock": true,
+      "description": "Professional-grade MacBook with Apple's new M1 Pro chip.",
+      "specifications": {
+         "processor": "Apple M1 Pro",
+         "ram": "16GB",
+         "memory": "512GB SSD",
+         "display": "14.2-inch Liquid Retina XDR",
+         "battery": "Up to 17 hours"
+      },
+      "rating": 4.9
+   },
+   {
+      "id": 16,
+      "name": "Huawei MateBook X Pro",
+      "category": "Laptop",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-175116/Huawei-MateBook-X-Pro-featured-image-packshot-review.jpg",
+      "price": 1299.0,
+      "stock": false,
+      "description": "Ultra-slim laptop with high-resolution display and powerful Intel i7 processor.",
+      "specifications": {
+         "processor": "Intel Core i7",
+         "ram": "16GB",
+         "memory": "512GB SSD",
+         "display": "13.9-inch 3K",
+         "battery": "Up to 13 hours"
+      },
+      "rating": 4.6
+   },
+   {
+      "id": 17,
+      "name": "Samsung Galaxy Z Fold3",
+      "category": "Phones",
+      "image": "https://images.samsung.com/sa_en/smartphones/galaxy-z-fold3-5g/buy/zfold3_carousel_multitasking_kv_mo.jpg",
+      "price": 1799.0,
+      "stock": true,
+      "description": "Samsung's innovative foldable smartphone with a unique form factor.",
+      "specifications": {
+         "processor": "Snapdragon 888",
+         "ram": "12GB",
+         "storage": "256GB",
+         "display": "7.6-inch AMOLED",
+         "battery": "4400mAh"
+      },
+      "rating": 4.7
+   },
+   {
+      "id": 18,
+      "name": "Fitbit Versa 3",
+      "category": "Smart Watches",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Fitbit-Versa-3-Smart-Watch-Black-9119.jpg",
+      "price": 229.99,
+      "stock": true,
+      "description": "Smartwatch with built-in GPS, heart rate monitoring, and Alexa support.",
+      "specifications": {
+         "processor": "Fitbit OS",
+         "storage": "4GB",
+         "display": "AMOLED",
+         "battery": "6 days",
+         "features": ["Heart rate monitor", "Built-in GPS", "Voice Assistant"]
+      },
+      "rating": 4.5
+   },
+   {
+      "id": 19,
+      "name": "Sony Xperia 5 III",
+      "category": "Phones",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8dGzrENamueG5ClXGg1MY-L3j21cnNTEaQ&s",
+      "price": 999.99,
+      "stock": false,
+      "description": "Compact flagship phone with high-quality camera and 5G support.",
+      "specifications": {
+         "processor": "Snapdragon 888",
+         "ram": "8GB",
+         "storage": "128GB",
+         "display": "6.1-inch OLED",
+         "battery": "4500mAh"
+      },
+      "rating": 4.4
+   },
+   {
+      "id": 20,
+      "name": "MacBook Pro 16 M1 Max",
+      "category": "MacBook",
+      "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg",
+      "price": 2799.0,
+      "stock": true,
+      "description": "High-performance MacBook for professionals with advanced graphics capabilities.",
+      "specifications": {
+         "processor": "Apple M1 Max",
+         "ram": "32GB",
+         "memory": "1TB SSD",
+         "display": "16.2-inch Liquid Retina XDR",
+         "battery": "Up to 21 hours"
+      },
+      "rating": 4.9
+   }
+]
